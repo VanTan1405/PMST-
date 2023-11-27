@@ -1,0 +1,10 @@
+D:\CONG VIEC\MY WORK\PRJ\ExportWordFileFromTemplate\ExportWordFileFromTemplate\bin\Debug\ExportWordFileFromTemplate.exe.config
+D:\CONG VIEC\MY WORK\PRJ\ExportWordFileFromTemplate\ExportWordFileFromTemplate\bin\Debug\ExportWordFileFromTemplate.exe
+D:\CONG VIEC\MY WORK\PRJ\ExportWordFileFromTemplate\ExportWordFileFromTemplate\bin\Debug\ExportWordFileFromTemplate.pdb
+D:\CONG VIEC\MY WORK\PRJ\ExportWordFileFromTemplate\ExportWordFileFromTemplate\bin\Debug\DocX.dll
+D:\CONG VIEC\MY WORK\PRJ\ExportWordFileFromTemplate\ExportWordFileFromTemplate\obj\Debug\ExportWordFileFromTemplate.csprojResolveAssemblyReference.cache
+D:\CONG VIEC\MY WORK\PRJ\ExportWordFileFromTemplate\ExportWordFileFromTemplate\obj\Debug\ExportWordFileFromTemplate.frmMain.resources
+D:\CONG VIEC\MY WORK\PRJ\ExportWordFileFromTemplate\ExportWordFileFromTemplate\obj\Debug\ExportWordFileFromTemplate.Properties.Resources.resources
+D:\CONG VIEC\MY WORK\PRJ\ExportWordFileFromTemplate\ExportWordFileFromTemplate\obj\Debug\ExportWordFileFromTemplate.csproj.GenerateResource.Cache
+D:\CONG VIEC\MY WORK\PRJ\ExportWordFileFromTemplate\ExportWordFileFromTemplate\obj\Debug\ExportWordFileFromTemplate.exe
+D:\CONG VIEC\MY WORK\PRJ\ExportWordFileFromTemplate\ExportWordFileFromTemplate\obj\Debug\ExportWordFileFromTemplate.pdb
